@@ -1,0 +1,9 @@
+contractions==0.0.48
+gensim==3.8.3
+Keras~=2.4.3
+matplotlib==3.4.2
+nltk==3.6.2
+numpy==1.20.0
+pandas==1.2.4
+scikit-multilearn==0.2.0
+scikit-learn==0.24.2
