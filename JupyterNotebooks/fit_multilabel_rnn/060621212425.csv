@@ -1,0 +1,3 @@
+round_epochs,loss,mean_absolute_error,val_loss,val_mean_absolute_error,batch_size,dropout,epochs,losses,lstm_units,optimizer
+100,0.01881268247961998,0.013866144232451916,0.0,0.0,32,0.1,100,binary_crossentropy,100,rmsprop
+100,0.006032468751072884,0.005379941780120134,0.0,0.0,32,0.1,100,binary_crossentropy,100,Adam
